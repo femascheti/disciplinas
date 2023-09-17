@@ -1,14 +1,14 @@
 [
     {
         "disciplina": "Matemática",
-        "categoria": "front-end"
+        "status": ["feito", "para fazer"]      
     },
     {
         "disciplina": "Português",
-        "categoria": "front-end"
+        "status": ["feito", "para fazer"]
     },
     {
         "disciplina": "Ciências",
-        "categoria": "front-end"
+        "status": ["feito", "para fazer"]
     }
 ]
